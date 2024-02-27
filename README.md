@@ -7,7 +7,6 @@
 ![Effortlessly manage](https://github.com/shakil2995/qrmate-public-demo/assets/29783183/8edae79c-3aca-46c2-ba4a-12ed53449202)
 
 
-
-![1 (Large)](https://github.com/shakil2995/QRMate-public-demo/assets/29783183/d2d10b6f-293a-444d-b9d5-1f89a8a8a539)
-![2 (Large)](https://github.com/shakil2995/QRMate-public-demo/assets/29783183/0ad81fc2-42d3-454e-bfa6-af5e4b24a495)
-![3 (Large)](https://github.com/shakil2995/QRMate-public-demo/assets/29783183/3e4371af-131f-4825-9780-8e98ccdcacd2)
+![1](https://github.com/shakil2995/QRMate-public-demo/assets/29783183/e493161c-4c15-456c-b6a7-56177476420b)
+![2](https://github.com/shakil2995/QRMate-public-demo/assets/29783183/b69c1eeb-1b46-4495-9609-b3349cba43da)
+![3](https://github.com/shakil2995/QRMate-public-demo/assets/29783183/04acb2fd-5059-492e-b134-e98d166fc928)
